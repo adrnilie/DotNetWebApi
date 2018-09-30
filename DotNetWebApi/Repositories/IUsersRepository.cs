@@ -1,11 +1,11 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
-using DotNetWebApi.Models;
+using DotNetWebApi.Core;
 
 namespace DotNetWebApi.Repositories
 {
     public interface IUsersRepository
     {
-        Task<IEnumerable<UsersModel>> GetUsers();
+        Task<IEnumerable<User>> GetUsers();
     }
 }
