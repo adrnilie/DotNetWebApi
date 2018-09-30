@@ -2,7 +2,6 @@
 using System.Web.Http;
 using Autofac;
 using Autofac.Integration.WebApi;
-using DotNetWebApi.Core.DataAccess;
 using DotNetWebApi.Repositories;
 
 namespace DotNetWebApi.App_Start
@@ -26,7 +25,6 @@ namespace DotNetWebApi.App_Start
             builder.RegisterApiControllers(Assembly.GetExecutingAssembly());
 
             // Register needed components
-            builder.RegisterType<ConnectionRepository>().As<IConnectionRepository>();
             builder.RegisterType<UsersRepository>().As<IUsersRepository>();
 
             // Set the dependency to Autofac

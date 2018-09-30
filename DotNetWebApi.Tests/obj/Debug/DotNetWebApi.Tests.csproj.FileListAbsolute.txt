@@ -26,10 +26,10 @@ F:\Repositories\DotNetWebApi\DotNetWebApi.Tests\bin\Debug\DotNetWebApi.Tests.dll
 F:\Repositories\DotNetWebApi\DotNetWebApi.Tests\bin\Debug\System.Web.Http.Cors.dll
 F:\Repositories\DotNetWebApi\DotNetWebApi.Tests\bin\Debug\Autofac.dll
 F:\Repositories\DotNetWebApi\DotNetWebApi.Tests\bin\Debug\Autofac.Integration.WebApi.dll
-F:\Repositories\DotNetWebApi\DotNetWebApi.Tests\bin\Debug\Dapper.dll
 F:\Repositories\DotNetWebApi\DotNetWebApi.Tests\bin\Debug\System.Web.Cors.dll
 F:\Repositories\DotNetWebApi\DotNetWebApi.Tests\bin\Debug\System.Web.Http.Cors.xml
 F:\Repositories\DotNetWebApi\DotNetWebApi.Tests\bin\Debug\Autofac.xml
 F:\Repositories\DotNetWebApi\DotNetWebApi.Tests\bin\Debug\Autofac.Integration.WebApi.pdb
 F:\Repositories\DotNetWebApi\DotNetWebApi.Tests\bin\Debug\Autofac.Integration.WebApi.xml
-F:\Repositories\DotNetWebApi\DotNetWebApi.Tests\bin\Debug\Dapper.xml
+F:\Repositories\DotNetWebApi\DotNetWebApi.Tests\bin\Debug\EntityFramework.dll
+F:\Repositories\DotNetWebApi\DotNetWebApi.Tests\bin\Debug\EntityFramework.xml

@@ -66,11 +66,13 @@ F:\Repositories\DotNetWebApi\DotNetWebApi\obj\Debug\DotNetWebApi.dll
 F:\Repositories\DotNetWebApi\DotNetWebApi\obj\Debug\DotNetWebApi.pdb
 F:\Repositories\DotNetWebApi\DotNetWebApi\bin\Autofac.dll
 F:\Repositories\DotNetWebApi\DotNetWebApi\bin\Autofac.Integration.WebApi.dll
-F:\Repositories\DotNetWebApi\DotNetWebApi\bin\Dapper.dll
 F:\Repositories\DotNetWebApi\DotNetWebApi\bin\System.Web.Cors.dll
 F:\Repositories\DotNetWebApi\DotNetWebApi\bin\System.Web.Http.Cors.dll
 F:\Repositories\DotNetWebApi\DotNetWebApi\bin\Autofac.xml
 F:\Repositories\DotNetWebApi\DotNetWebApi\bin\Autofac.Integration.WebApi.pdb
 F:\Repositories\DotNetWebApi\DotNetWebApi\bin\Autofac.Integration.WebApi.xml
-F:\Repositories\DotNetWebApi\DotNetWebApi\bin\Dapper.xml
 F:\Repositories\DotNetWebApi\DotNetWebApi\bin\System.Web.Http.Cors.xml
+F:\Repositories\DotNetWebApi\DotNetWebApi\bin\EntityFramework.dll
+F:\Repositories\DotNetWebApi\DotNetWebApi\bin\EntityFramework.SqlServer.dll
+F:\Repositories\DotNetWebApi\DotNetWebApi\bin\EntityFramework.xml
+F:\Repositories\DotNetWebApi\DotNetWebApi\bin\EntityFramework.SqlServer.xml

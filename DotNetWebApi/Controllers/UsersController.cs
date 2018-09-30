@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 using System.Web.Http;
-using DotNetWebApi.Models;
+using DotNetWebApi.Core;
 using DotNetWebApi.Repositories;
 
 namespace DotNetWebApi.Controllers
@@ -17,7 +17,7 @@ namespace DotNetWebApi.Controllers
 
         [HttpGet]
         [Route("api/users")]
-        public async Task<IEnumerable<UsersModel>> GetAllUsers()
+        public async Task<IEnumerable<User>> GetAllUsers()
         {
             return await this.usersRepository.GetUsers();
         }
